@@ -25,5 +25,8 @@
     "config": {
         "sort-packages": true
     },
+    "scripts": {
+        "build": "php bin/build.php"
+    },
     "prefer-stable": true
 }
