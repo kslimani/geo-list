@@ -4,7 +4,7 @@
     "keywords": ["country", "currency", "geo", "language"],
     "license": "MIT",
     "require": {
-        "php": ">=7.2"
+        "php": ">=7.1"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.5",
